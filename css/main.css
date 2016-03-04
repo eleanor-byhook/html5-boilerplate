@@ -88,18 +88,19 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+  margin: 0px;
+  overflow: hidden;
+}
 
-
-
-
-
-
-
-
-
-
-
-
+#webglviewer {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+  
 
 
 
